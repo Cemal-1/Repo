@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/cemal/deneme'
+let g:netrw_dirhist_3='/home/cemal/deneme/shell00'
+let g:netrw_dirhist_2='/home/cemal/deneme/shell00/ex02'
+let g:netrw_dirhist_1='/home/cemal/deneme/shell00/ex02/test6'
