@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1744471240,,"wq"
+|2,0,1745228104,,"wq"
 :q!
 |2,0,1744462653,,"q!"
 
@@ -32,232 +32,275 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	{
+|3,1,36,0,1,0,1745228069,"{"
 
 # File marks:
-'0  1  6  ~/deneme/shell00/ex04/midLS
-|4,48,1,6,1744471240,"~/deneme/shell00/ex04/midLS"
-'1  1  101  ~/deneme/shell00/ex03/id_rsa_pub
-|4,49,1,101,1744471054,"~/deneme/shell00/ex03/id_rsa_pub"
-'2  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,50,1,0,1744470636,"~/deneme/shell00/ex03/id_rsa_pub"
-'3  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,51,1,0,1744470613,"~/deneme/shell00/ex03/id_rsa_pub"
-'4  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,52,1,0,1744470613,"~/deneme/shell00/ex03/id_rsa_pub"
-'5  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,53,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
-'6  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,54,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
-'7  1  0  ~/deneme/shell00/ex02/test5
-|4,55,1,0,1744462598,"~/deneme/shell00/ex02/test5"
-'8  1  0  ~/deneme/shell00/ex02/test4
-|4,56,1,0,1744462585,"~/deneme/shell00/ex02/test4"
-'9  1  0  ~/deneme/shell00/ex02/test3
-|4,57,1,0,1744462571,"~/deneme/shell00/ex02/test3"
+'0  25  0  ~/deneme/c00/ex05/ft_print_comb.c
+|4,48,25,0,1745228104,"~/deneme/c00/ex05/ft_print_comb.c"
+'1  1  0  ~/deneme/c00/ex04/a
+|4,49,1,0,1745218791,"~/deneme/c00/ex04/a"
+'2  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,50,16,0,1745164379,"~/deneme/c00/ex00/ft_foo.h"
+'3  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,51,16,0,1745164137,"~/deneme/c00/ex00/ft_foo.h"
+'4  1  0  ~/deneme/c00/ex00/ft_foo
+|4,52,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+'5  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,53,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+'6  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,54,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+'7  10  0  ~/deneme/c00/ex00/ft_putchar.c
+|4,55,10,0,1745158377,"~/deneme/c00/ex00/ft_putchar.c"
+'8  10  0  ~/deneme/c00/ex00/ft_putchar.c
+|4,56,10,0,1745158377,"~/deneme/c00/ex00/ft_putchar.c"
+'9  10  0  ~/deneme/c00/ex00/ft_putchar.c
+|4,57,10,0,1745158377,"~/deneme/c00/ex00/ft_putchar.c"
 
 # Jumplist (newest first):
--'  1  6  ~/deneme/shell00/ex04/midLS
-|4,39,1,6,1744471240,"~/deneme/shell00/ex04/midLS"
--'  1  101  ~/deneme/shell00/ex03/id_rsa_pub
-|4,39,1,101,1744471054,"~/deneme/shell00/ex03/id_rsa_pub"
--'  1  101  ~/deneme/shell00/ex03/id_rsa_pub
-|4,39,1,101,1744471054,"~/deneme/shell00/ex03/id_rsa_pub"
--'  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,39,1,0,1744470636,"~/deneme/shell00/ex03/id_rsa_pub"
--'  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,39,1,0,1744470636,"~/deneme/shell00/ex03/id_rsa_pub"
--'  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,39,1,0,1744470613,"~/deneme/shell00/ex03/id_rsa_pub"
--'  1  0  ~/deneme/shell00/ex03/id_rsa_pub
-|4,39,1,0,1744470613,"~/deneme/shell00/ex03/id_rsa_pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex03/id_rsa_pub.pub
-|4,39,1,3,1744470054,"~/deneme/shell00/ex03/id_rsa_pub.pub"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  1  3  ~/deneme/shell00/ex02/test0/test6
-|4,39,1,3,1744462653,"~/deneme/shell00/ex02/test0/test6"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  1  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,1,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
--'  7  0  ~/deneme/shell00/ex02/NetrwTreeListing
-|4,39,7,0,1744462620,"~/deneme/shell00/ex02/NetrwTreeListing"
+-'  25  0  ~/deneme/c00/ex05/ft_print_comb.c
+|4,39,25,0,1745228104,"~/deneme/c00/ex05/ft_print_comb.c"
+-'  1  0  ~/deneme/c00/ex05/ft_print_comb.c
+|4,39,1,0,1745228031,"~/deneme/c00/ex05/ft_print_comb.c"
+-'  1  0  ~/deneme/c00/ex04/a
+|4,39,1,0,1745218791,"~/deneme/c00/ex04/a"
+-'  1  0  ~/deneme/c00/ex04/a
+|4,39,1,0,1745218791,"~/deneme/c00/ex04/a"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164379,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164379,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164379,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164379,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164137,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164137,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164137,"~/deneme/c00/ex00/ft_foo.h"
+-'  16  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,16,0,1745164137,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo.h
+|4,39,1,0,1745164121,"~/deneme/c00/ex00/ft_foo.h"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  1  0  ~/deneme/c00/ex00/ft_foo
+|4,39,1,0,1745164087,"~/deneme/c00/ex00/ft_foo"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  14  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,14,1745160691,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
+-'  9  16  ~/deneme/c00/ex00/ft_putchar.c
+|4,39,9,16,1745160662,"~/deneme/c00/ex00/ft_putchar.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/deneme/c00/ex05/ft_print_comb.c
+	*	1745228102	0
+	"	25	0
+	^	25	1
+	.	2	0
+	+	18	26
+	+	17	44
+	+	18	0
+	+	19	0
+	+	2	0
+
+> ~/deneme/c00/ex04/a
+	*	1745218786	0
+	"	1	0
+
+> ~/deneme/c00/ex00/ft_foo.h
+	*	1745164377	0
+	"	16	0
+	^	16	0
+	.	15	0
+	+	15	0
+
+> ~/deneme/c00/ex00/ft_foo
+	*	1745164081	0
+	"	1	0
+
+> ~/deneme/c00/ex00/ft_putchar.c
+	*	1745160673	0
+	"	9	14
+	^	10	1
+	.	10	0
+	+	10	0
+
+> ~/deneme/shell00/ex05/git_commit.sh
+	*	1744481487	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/deneme/shell00/ex04/midLS
 	*	1744471239	0
